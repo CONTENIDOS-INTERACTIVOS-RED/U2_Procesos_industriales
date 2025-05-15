@@ -427,7 +427,7 @@
           .col-lg-8.mb-3.mb-lg-0
             h2.mb-4(data-aos="flip-up") ¿En qué momento se aplican los métodos de análisis y mejora de procesos?
             p.mb-4(data-aos="fade-right") En el PDF #[b En qué momento se aplican los métodos de análisis y mejora de procesos], se detallan los momentos estratégicos en los que deben utilizarse herramientas como SIPOC, VSM, Ishikawa o el ciclo PHVA, junto con tecnologías digitales e Inteligencia Artificial, que potencian su efectividad. Este enfoque permite a los estudiantes aplicar estas metodologías con criterio técnico y actualizado, fortaleciendo sus competencias en la optimización de los procesos industriales.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_4.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_2.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto

@@ -38,7 +38,7 @@
 
     .titulo-figura(data-aos="fade-right")
       h5 Tabla 1. 
-      span Tipos de indeterminaciones en límites
+      span Comparativo herramientas más utilizadas
 
     .tabla-a-1(data-aos="fade-left") 
       table
@@ -74,7 +74,7 @@
           .col-lg-8
             h2.mb-4(data-aos="flip-up") Herramientas destacadas en el sector industrial para modelado de procesos
             p.mb-4(data-aos="fade-right") La representación visual de procesos es una herramienta clave en el análisis y mejora de operaciones industriales, porque permite comprender, documentar y optimizar flujos de trabajo, con mayor precisión. En el PDF #[b Herramientas destacadas en el sector industrial para modelado de procesos, se exploran], paso a paso, las funciones, las aplicaciones y los beneficios de plataformas como Bizagi Modeler, Lucidchart, Microsoft Visio y draw.io, a través de ejemplos reales que facilitan su uso práctico. Estas herramientas fortalecen las competencias de modelado en ingeniería industrial, promoviendo eficiencia, estandarización y colaboración, en los  entornos organizacionales.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_4.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_3.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto

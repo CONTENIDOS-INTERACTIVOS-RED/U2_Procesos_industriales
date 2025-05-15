@@ -161,11 +161,6 @@ export default {
     },
     {
       referencia:
-        'García Moreno, E. (2020). <i>Automatización de procesos industriales: robótica y automática</i>. Editorial de la Universidad Politécnica de Valencia. ',
-      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/129686',
-    },
-    {
-      referencia:
         'Sainz, J. S. & Sainz, L. S. (2020).<i> Introducción a la ciencia cognitiva: procesos y simulación</i>. McGraw-Hill. ',
       link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/125468',
     },

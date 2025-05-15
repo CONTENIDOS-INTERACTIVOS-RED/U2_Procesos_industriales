@@ -132,7 +132,7 @@
           .col-lg-8.mb-3.mb-lg-0
             h2.mb-4(data-aos="flip-up") Importancia de los principios de diseño, en el contexto del diseño y el análisis de los procesos
             p.mb-4(data-aos="fade-right") En el PDF #[b Importancia de los principios de diseño], se exploran criterios claves como la estandarización, el flujo continuo, la flexibilidad y la minimización de desperdicios, los cuales guían la estructuración lógica de los procesos y permiten, al estudiante, comprender cómo tomar decisiones estratégicas desde el diseño inicial. Estos principios son la base sobre la cual se apoyan posteriormente, las herramientas de análisis, simulación y mejora continua, en los entornos industriales reales.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_4.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
